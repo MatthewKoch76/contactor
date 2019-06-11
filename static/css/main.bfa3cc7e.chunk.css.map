@@ -1,0 +1,1 @@
+{"version":3,"sources":["contact.css"],"names":[],"mappings":"AAAA,SACE,UAAW,CACX,cAAe,CACf,iBAAkB,CAClB,WACF","file":"main.bfa3cc7e.chunk.css","sourcesContent":[".app-btn {\r\n  color: gray;\r\n  cursor: pointer;\r\n  padding-left: 1rem;\r\n  float: right;\r\n}\r\n"]}
